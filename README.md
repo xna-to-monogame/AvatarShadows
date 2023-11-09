@@ -8,7 +8,8 @@
 # Avatar Shadows Sample
 
 This sample demonstrates how to implement planar shadows for avatar characters to increase visual quality and richness of 3D scenes involving avatars.
-Sample Overview
+
+## Sample Overview
 
 The sample shows a collection of sixteen animated avatars that all cast planar shadows onto the ground. Each avatar has its own animation and rotation value to show how the technique scales. Additionally the camera and light direction can both be rotated to view the shadows from various angles.
 
